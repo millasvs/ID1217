@@ -1,0 +1,17 @@
+#size of dictionary						
+#in number of words	->		25143			99171			124314
+
+#speedup per processor 
+#|
+#v
+
+#2 processors				0.89			1.60			1.62				
+
+
+
+#3 processors				1.09			2.06			1.67
+
+
+
+#4 processors				0.89			2.17			2.09
+

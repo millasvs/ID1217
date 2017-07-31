@@ -1,0 +1,6 @@
+# Benchmarks for ../pthreads with num_particles = 10000, and n_proc = [1 ... 4]
+# n_proc  execution time 1 processor(= 2.93296)/exec time n processors 
+  1		  0.9690161692 
+  2		  1.01399
+  3		  1.00559 
+  4		  0.94175 

@@ -1,0 +1,14 @@
+[matvs@rhel-sal-20 speedup]$ ./speedup.sh ../../pthreads 1 8
+# Benchmarks for ../../pthreads with num_particles = 10000, and n_proc = [1 ... 8]
+# serial exec time = 1.13574 s
+# n_proc  time (s)
+  1		1.05599
+  2		0.87779
+  3		0.89594
+  4		0.91641
+  5		0.86069
+  6		0.84649
+  7		0.85164
+  8		0.83416
+  
+  

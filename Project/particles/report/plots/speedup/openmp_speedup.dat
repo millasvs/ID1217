@@ -1,0 +1,9 @@
+# Benchmarks for ../openmp with num_particles = 10000, and n_proc = [1 ... 4]
+# n_proc  execution time 1 processor(= 2.93296)/exec time n processors 
+  1		  0.9503374667
+  2		  1.474894272 
+  3		  1.4973324893 
+  4		  1.881163733
+  
+  
+ 
